@@ -44,7 +44,7 @@ const Sidebar = ({mode,setMode}) => {
               <ListItemIcon>
                 <Person/>
               </ListItemIcon>
-              <ListItemText primary="Freinds" />
+              <ListItemText primary="Friends" />
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
