@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Social Media App Frontend Design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+* Description
+* Features
+* Technologies Used
+* Installation
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This project is a frontend design concept for a social media application, aimed at providing a visually appealing and user-friendly interface for users to interact with. The design focuses on creating an engaging platform for social networking and content sharing.
 
-### `npm start`
+***
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Note
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is intended as a learning tool and can be used as a sample project for educational or personal projects.
 
-### `npm test`
+***
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+* Modern Design: Utilized contemporary design principles to create an aesthetically pleasing and visually engaging user interface.
+  
+* Responsive Layout: Implemented a responsive layout to ensure optimal viewing and interaction across various devices and screen sizes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Intuitive Navigation: Designed intuitive navigation elements to enhance user experience and facilitate seamless browsing through the app.
+  
+* Interactive Components: Incorporated interactive components and animations to add depth and interactivity to the user interface.
+  
+***
+## Screenshots
+![Screenshot 2023-07-25 210844](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/Social%20Media/SocialMedia1.png)
+![Screenshot 2023-07-25 211309](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/Social%20Media/SocialMedia2.png)
+<details>
+  <summary>More screenshots</summary>
+  
+![Screenshot 2023-07-25 211451](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/Social%20Media/SocialMedia3.png)
+</details>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+***
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+* React.js
+* Tailwind CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+***
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Create React App Using
+    npm create-react-app app
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
